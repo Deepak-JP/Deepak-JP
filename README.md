@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year BCA student | Aspiring Software Developer<br>Skilled in C, C++, Java, and basics of Python & SQL<br>Interested in building user-friendly applications and solving real-world problems
+Final-year BCA student | Aspiring Software Developer<br>Skilled in C, C++ and basics of Python & SQL<br>Interested in building user-friendly applications and solving real-world problems
 
 
 ## 🌐 Socials:
